@@ -1,0 +1,6 @@
+# write a programe of strings and its operations 
+
+
+a = 'Hello world'
+b = 'beta'
+print(a+b)
